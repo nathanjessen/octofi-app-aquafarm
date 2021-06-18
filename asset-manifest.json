@@ -23,8 +23,8 @@
     "static/js/9.a7dbe11d.chunk.js": "/octofi-app-aquafarm/static/js/9.a7dbe11d.chunk.js",
     "static/js/9.a7dbe11d.chunk.js.map": "/octofi-app-aquafarm/static/js/9.a7dbe11d.chunk.js.map",
     "main.css": "/octofi-app-aquafarm/static/css/main.62613aa3.chunk.css",
-    "main.js": "/octofi-app-aquafarm/static/js/main.addeeb1a.chunk.js",
-    "main.js.map": "/octofi-app-aquafarm/static/js/main.addeeb1a.chunk.js.map",
+    "main.js": "/octofi-app-aquafarm/static/js/main.60ac9986.chunk.js",
+    "main.js.map": "/octofi-app-aquafarm/static/js/main.60ac9986.chunk.js.map",
     "runtime-main.js": "/octofi-app-aquafarm/static/js/runtime-main.98235365.js",
     "runtime-main.js.map": "/octofi-app-aquafarm/static/js/runtime-main.98235365.js.map",
     "static/css/12.973492f8.chunk.css": "/octofi-app-aquafarm/static/css/12.973492f8.chunk.css",
@@ -338,6 +338,6 @@
     "static/css/12.973492f8.chunk.css",
     "static/js/12.61d4c46d.chunk.js",
     "static/css/main.62613aa3.chunk.css",
-    "static/js/main.addeeb1a.chunk.js"
+    "static/js/main.60ac9986.chunk.js"
   ]
 }
